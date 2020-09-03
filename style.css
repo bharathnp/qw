@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#timer{
+    font-size:20px;
+    font-weight: 800;
+    padding: 10px;
+}
+#startbtn{
+    font-size:20px;
+    font-weight: 800;
+    padding: 10px;
+    margin:10px;
+
+}
+#resetbtn{
+    font-size:20px;
+    font-weight: 800;
+    padding: 10px;
+    margin:10px;
+}
